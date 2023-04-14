@@ -5,6 +5,7 @@ Hello, I'm [Ziji Sheng](https://www.upwork.com/fl/huanqingzhu), A Full-time unde
 - 👨‍💼 I currently STUDY in Wuhan University,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently studying computer related majors..
 - 📺 My major mainly includes natural language processing, deep learning, network programming and other disciplines.
+- 🤖 I am currently interested in nlp and ai tools.
 
 <!--
 - 👯 I’m looking to collaborate on ...
