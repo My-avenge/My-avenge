@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm [Ziji Sheng](https://www.upwork.com/fl/huanqingzhu), A Full-time undergraduate in China:
+Hello, I'm [flome](https://www.upwork.com/fl/huanqingzhu), A Full-time undergraduate in China:
 
 - 👨‍💼 I currently STUDY in Wuhan University,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently studying computer related majors..
