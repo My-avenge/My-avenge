@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello, I'm [flome](https://www.upwork.com/fl/huanqingzhu), A Full-time undergraduate in China:
+Hello, I'm [flome], A Full-time MS-student of Huazhong University of Science and Technology, China:
 
-- 👨‍💼 I currently STUDY in Wuhan University,China.
+- 👨‍💼 I currently STUDY at Huazhong University of Science and Technology,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently studying computer related majors..
 - 📺 My major mainly includes natural language processing, deep learning, network programming and other disciplines.
 - 🤖 I am currently interested in nlp and ai tools.
